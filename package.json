@@ -1,5 +1,6 @@
 {
   "name": "test-tailwind",
+  "homepage": "https://github.com/OstinPower41016/forms-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,7 +35,8 @@
   },
   "scripts": {
     "start": "craco start",
-    "build": "craco build",
+    "predeploy": "craco build",
+    "deploy": "gh-pages -d build",
     "test": "craco test",
     "eject": "react-scripts eject"
   },
