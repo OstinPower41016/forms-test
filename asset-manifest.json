@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/OstinPower41016/forms-test/static/css/main.fcfa904a.chunk.css",
+    "main.js": "/OstinPower41016/forms-test/static/js/main.46589ffa.chunk.js",
+    "main.js.map": "/OstinPower41016/forms-test/static/js/main.46589ffa.chunk.js.map",
+    "runtime-main.js": "/OstinPower41016/forms-test/static/js/runtime-main.6aa76a3a.js",
+    "runtime-main.js.map": "/OstinPower41016/forms-test/static/js/runtime-main.6aa76a3a.js.map",
+    "static/css/2.a35af43b.chunk.css": "/OstinPower41016/forms-test/static/css/2.a35af43b.chunk.css",
+    "static/js/2.6af07e64.chunk.js": "/OstinPower41016/forms-test/static/js/2.6af07e64.chunk.js",
+    "static/js/2.6af07e64.chunk.js.map": "/OstinPower41016/forms-test/static/js/2.6af07e64.chunk.js.map",
+    "index.html": "/OstinPower41016/forms-test/index.html",
+    "static/css/2.a35af43b.chunk.css.map": "/OstinPower41016/forms-test/static/css/2.a35af43b.chunk.css.map",
+    "static/css/main.fcfa904a.chunk.css.map": "/OstinPower41016/forms-test/static/css/main.fcfa904a.chunk.css.map",
+    "static/js/2.6af07e64.chunk.js.LICENSE.txt": "/OstinPower41016/forms-test/static/js/2.6af07e64.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/OstinPower41016/forms-test/static/media/sf-ui-display-semibold-58646eddcae92.34c6d94a.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aa76a3a.js",
+    "static/css/2.a35af43b.chunk.css",
+    "static/js/2.6af07e64.chunk.js",
+    "static/css/main.fcfa904a.chunk.css",
+    "static/js/main.46589ffa.chunk.js"
+  ]
+}
