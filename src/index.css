@@ -1,13 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@font-face {
+  font-family: "SF UI Display";
+  font-style: normal;
+  font-weight: normal;
+  src: local("SF UI Display Semibold"),
+    url("./assets/sf-ui-display-semibold-58646eddcae92.woff") format("woff");
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --border-color: #e3e3e3;
+  --border-color-active: #0086a8;
+  --legend-color: #828282;
+  --legend-color-active: #0086a8;
+  --error-color: #eb5e55;
+  --text-color: #353238;
+  --button-disabled: #e3e3e3;
+  --error-color: #eb5e55;
+  --button-color: #0086a8;
+}
+
+html {
+  font-size: 14px;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Open Sans", "SF UI Display", "sans-serif";
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
 }
